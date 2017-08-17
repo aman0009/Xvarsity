@@ -20,6 +20,7 @@ We uses a number of open source projects to work properly:
 [jQuery] - duh
 Installation
 
+![image](https://github.com/Ayushverma8/Xvarsity/raw/master/major.png)
 It requires Node.js v6+ to run. Install the dependencies and devDependencies and start the server. Install Docker
 
 Pull docker image from here
